@@ -3,7 +3,7 @@ name: Cloud N1 OpenWrt
 on:
   push:
     branches:
-      - main
+       - main
     paths:
       - 'script.sh'
       - 'config.sh'
